@@ -12,3 +12,6 @@
 ## How the Game Was Built
 * Using JavaScript 
 * Implemented OOP principles 
+
+## To View the Project
+* https://ummagohil.github.io/Arcade-Game/
